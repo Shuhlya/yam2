@@ -1,0 +1,1 @@
+import{l as a,j as e,c as r}from"./index-3St8o1xV.js";const o=({children:t})=>{const{scrollY:s}=a();return e.jsx("header",{className:r("sticky inset-x-0 top-0 z-30 w-full items-center backdrop-blur transition-all duration-300",s>=80?"bg-white shadow-none dark:bg-default-50 lg:shadow-md":"bg-transparent"),children:t})};export{o as default};

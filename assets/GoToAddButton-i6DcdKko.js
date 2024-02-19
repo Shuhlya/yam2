@@ -1,0 +1,1 @@
+import{j as e,f as t,aj as r}from"./index-3St8o1xV.js";const n=({buttonText:s,buttonLink:i})=>e.jsxs(t,{to:i,className:"inline-flex rounded-md bg-primary px-6 py-2.5 text-sm text-white hover:bg-primary-500 ",children:[e.jsx(r,{size:20,className:"me-2 inline-flex align-middle"}),s]});export{n as G};

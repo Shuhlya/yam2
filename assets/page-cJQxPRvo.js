@@ -1,0 +1,1 @@
+import{j as t}from"./index-3St8o1xV.js";import{B as r}from"./BreadcrumbAdmin-A9doLk6b.js";import"./PageTitle-EMS5YwYN.js";const i=()=>t.jsx("div",{className:"w-full lg:ps-64",children:t.jsx("div",{className:"page-content space-y-6 p-6",children:t.jsx(r,{title:"Starter",subtitle:"Extra Pages"})})});export{i as default};

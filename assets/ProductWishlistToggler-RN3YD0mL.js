@@ -1,0 +1,1 @@
+import{u as i,j as e,L as l,c as n}from"./index-3St8o1xV.js";const c=({dish:t,size:s})=>{const{toggleToWishlist:r,isInWishlist:o}=i();return e.jsx("button",{onClick:()=>r(t),children:e.jsx(l,{size:s??24,className:n("relative z-10 cursor-pointer transition-all",o(t)?"fill-red-500 text-red-500":"hover:fill-red-500 hover:text-red-500")})})};export{c as default};
